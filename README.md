@@ -52,7 +52,7 @@ npm start
 ### For developers
 Clone the source locally:
 ```sh
-$ git clone https://github.com/HarshVerm/IndeedReactClone.git
+$ git clone https://github.com/loricallum/indeed-clone.git
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
